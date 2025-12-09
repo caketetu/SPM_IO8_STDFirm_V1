@@ -1,0 +1,6 @@
+# Ignore build directories
+Debug/
+Release/
+/.settings/
+.mxproject
+*.launch
