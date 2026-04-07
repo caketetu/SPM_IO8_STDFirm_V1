@@ -1,6 +1,17 @@
 # Ignore build directories
+#===各フォルダに入れる===
+#For KiCAD
+/*-backups
+
+#For STM32CubeIDE
 Debug/
 Release/
 /.settings/
 .mxproject
 *.launch
+.metadata/
+
+#For Visual Studio Code
+.vscode/
+
+#for ArduinoIDE
